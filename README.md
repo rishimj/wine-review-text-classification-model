@@ -37,7 +37,7 @@ The model uses the following architecture:
 
 1. Clone the repository:
    ```bash
-   git clone https://github.com/your-username/wine-review-classification.git
+   git clone https://github.com/your-username/wine-review-classification.git](https://github.com/rishimj/wine-review-text-classification-model.git
    cd wine-review-classification
 
 ## Results
